@@ -1,0 +1,4 @@
+interface:
+  display_name: "直营信息站 HTML 统一风格"
+  short_description: "复用直营信息站的字体、蓝色配色、深浅色和紧凑布局，生成可编辑的单文件 HTML"
+  default_prompt: "使用 $direct-retail-html-style，按我提供的业务内容生成与直营信息站一致的 HTML。"
